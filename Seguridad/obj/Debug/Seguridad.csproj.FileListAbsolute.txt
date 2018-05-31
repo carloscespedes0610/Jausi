@@ -1,0 +1,425 @@
+F:\Seguridad\Seguridad\bin\Seguridad.dll.config
+F:\Seguridad\Seguridad\bin\Seguridad.dll
+F:\Seguridad\Seguridad\bin\Seguridad.pdb
+F:\Seguridad\Seguridad\bin\Antlr3.Runtime.dll
+F:\Seguridad\Seguridad\bin\DevExtreme.AspNet.Data.dll
+F:\Seguridad\Seguridad\bin\DevExtreme.AspNet.Mvc.dll
+F:\Seguridad\Seguridad\bin\Microsoft.Web.Infrastructure.dll
+F:\Seguridad\Seguridad\bin\Newtonsoft.Json.dll
+F:\Seguridad\Seguridad\bin\System.Net.Http.Formatting.dll
+F:\Seguridad\Seguridad\bin\System.Web.Helpers.dll
+F:\Seguridad\Seguridad\bin\System.Web.Http.dll
+F:\Seguridad\Seguridad\bin\System.Web.Http.WebHost.dll
+F:\Seguridad\Seguridad\bin\System.Web.Mvc.dll
+F:\Seguridad\Seguridad\bin\System.Web.Optimization.dll
+F:\Seguridad\Seguridad\bin\System.Web.Razor.dll
+F:\Seguridad\Seguridad\bin\System.Web.WebPages.Deployment.dll
+F:\Seguridad\Seguridad\bin\System.Web.WebPages.dll
+F:\Seguridad\Seguridad\bin\System.Web.WebPages.Razor.dll
+F:\Seguridad\Seguridad\bin\WebGrease.dll
+F:\Seguridad\Seguridad\bin\Antlr3.Runtime.pdb
+F:\Seguridad\Seguridad\bin\DevExtreme.AspNet.Mvc.xml
+F:\Seguridad\Seguridad\bin\Newtonsoft.Json.xml
+F:\Seguridad\Seguridad\bin\System.Net.Http.Formatting.xml
+F:\Seguridad\Seguridad\bin\System.Web.Helpers.xml
+F:\Seguridad\Seguridad\bin\System.Web.Http.xml
+F:\Seguridad\Seguridad\bin\System.Web.Http.WebHost.xml
+F:\Seguridad\Seguridad\bin\System.Web.Mvc.xml
+F:\Seguridad\Seguridad\bin\System.Web.Optimization.xml
+F:\Seguridad\Seguridad\bin\System.Web.Razor.xml
+F:\Seguridad\Seguridad\bin\System.Web.WebPages.xml
+F:\Seguridad\Seguridad\bin\System.Web.WebPages.Deployment.xml
+F:\Seguridad\Seguridad\bin\System.Web.WebPages.Razor.xml
+F:\Seguridad\Seguridad\obj\Debug\Seguridad.csprojResolveAssemblyReference.cache
+F:\Seguridad\Seguridad\obj\Debug\Seguridad.csproj.CoreCompileInputs.cache
+F:\Seguridad\Seguridad\obj\Debug\Seguridad.dll
+F:\Seguridad\Seguridad\obj\Debug\Seguridad.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\Seguridad.dll.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\Seguridad.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\Seguridad.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\Antlr3.Runtime.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExtreme.AspNet.Data.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExtreme.AspNet.Mvc.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\Newtonsoft.Json.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\System.Net.Http.Formatting.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\System.Web.Helpers.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\System.Web.Http.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\System.Web.Http.WebHost.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\System.Web.Mvc.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\System.Web.Optimization.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\System.Web.Razor.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\System.Web.WebPages.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\WebGrease.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExtreme.AspNet.Mvc.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\Newtonsoft.Json.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\System.Net.Http.Formatting.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\System.Web.Helpers.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\System.Web.Http.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\System.Web.Http.WebHost.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\System.Web.Mvc.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\System.Web.Optimization.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\System.Web.Razor.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\System.Web.WebPages.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\obj\Debug\Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\obj\Debug\Seguridad.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\obj\Debug\Seguridad.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Charts.v17.2.Core.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Data.v17.2.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Office.v17.2.Core.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.PivotGrid.v17.2.Core.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Printing.v17.2.Core.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.XtraCharts.v17.2.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.XtraGauges.v17.2.Core.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.XtraReports.v17.2.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Images.v17.2.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.DataAccess.v17.2.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Xpo.v17.2.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.CodeParser.v17.2.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Data.v17.2.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Office.v17.2.Core.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.PivotGrid.v17.2.Core.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Printing.v17.2.Core.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.XtraCharts.v17.2.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.XtraGauges.v17.2.Core.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.XtraReports.v17.2.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.DataAccess.v17.2.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Xpo.v17.2.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\de\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\es\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ja\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ru\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\de\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\es\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ja\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ru\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\de\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\es\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ja\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ru\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\de\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\es\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ja\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ru\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\obj\Debug\rptTipoUsuario.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\obj\Debug\Seguridad.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\obj\Debug\Seguridad.dll.licenses
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.RichEdit.v17.2.Export.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Utils.v17.2.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Web.ASPxThemes.v17.2.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Web.Mvc5.v17.2.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Web.Resources.v17.2.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Web.v17.2.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.XtraReports.v17.2.Web.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.XtraCharts.v17.2.Web.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Web.ASPxHtmlEditor.v17.2.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Web.ASPxPivotGrid.v17.2.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Web.ASPxRichEdit.v17.2.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Web.ASPxScheduler.v17.2.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.XtraScheduler.v17.2.Core.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Web.ASPxSpellChecker.v17.2.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Web.ASPxSpreadsheet.v17.2.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Web.ASPxTreeList.v17.2.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.SpellChecker.v17.2.Core.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Spreadsheet.v17.2.Core.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Utils.v17.2.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Web.v17.2.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.XtraReports.v17.2.Web.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.XtraCharts.v17.2.Web.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Web.ASPxHtmlEditor.v17.2.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Web.ASPxPivotGrid.v17.2.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Web.ASPxRichEdit.v17.2.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Web.ASPxScheduler.v17.2.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.XtraScheduler.v17.2.Core.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Web.ASPxSpellChecker.v17.2.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Web.ASPxSpreadsheet.v17.2.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Web.ASPxTreeList.v17.2.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.SpellChecker.v17.2.Core.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\DevExpress.Spreadsheet.v17.2.Core.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\de\DevExpress.Web.Resources.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\es\DevExpress.Web.Resources.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ja\DevExpress.Web.Resources.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ru\DevExpress.Web.Resources.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\de\DevExpress.Web.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\es\DevExpress.Web.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ja\DevExpress.Web.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ru\DevExpress.Web.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\de\DevExpress.XtraReports.v17.2.Web.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\es\DevExpress.XtraReports.v17.2.Web.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ja\DevExpress.XtraReports.v17.2.Web.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ru\DevExpress.XtraReports.v17.2.Web.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\de\DevExpress.Web.ASPxHtmlEditor.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\es\DevExpress.Web.ASPxHtmlEditor.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ja\DevExpress.Web.ASPxHtmlEditor.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ru\DevExpress.Web.ASPxHtmlEditor.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\de\DevExpress.Web.ASPxRichEdit.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\es\DevExpress.Web.ASPxRichEdit.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ja\DevExpress.Web.ASPxRichEdit.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ru\DevExpress.Web.ASPxRichEdit.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\de\DevExpress.Web.ASPxScheduler.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\es\DevExpress.Web.ASPxScheduler.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ja\DevExpress.Web.ASPxScheduler.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ru\DevExpress.Web.ASPxScheduler.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\de\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\es\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ja\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ru\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\de\DevExpress.Web.ASPxSpellChecker.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\es\DevExpress.Web.ASPxSpellChecker.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ja\DevExpress.Web.ASPxSpellChecker.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ru\DevExpress.Web.ASPxSpellChecker.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\de\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\es\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ja\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ru\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\de\DevExpress.Web.ASPxTreeList.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\es\DevExpress.Web.ASPxTreeList.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ja\DevExpress.Web.ASPxTreeList.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ru\DevExpress.Web.ASPxTreeList.v17.2.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\de\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\es\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ja\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\bin\ru\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\C-Sharp\Seguridad\Seguridad\obj\Debug\Seguridad.csprojResolveAssemblyReference.cache
+E:\Jausi\Seguridad\Seguridad\bin\Seguridad.dll.config
+E:\Jausi\Seguridad\Seguridad\bin\Seguridad.dll
+E:\Jausi\Seguridad\Seguridad\bin\Seguridad.pdb
+E:\Jausi\Seguridad\Seguridad\bin\Antlr3.Runtime.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Charts.v17.2.Core.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.CodeParser.v17.2.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Data.v17.2.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.DataAccess.v17.2.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Office.v17.2.Core.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Pdf.v17.2.Core.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.PivotGrid.v17.2.Core.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Printing.v17.2.Core.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.RichEdit.v17.2.Core.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.RichEdit.v17.2.Export.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Sparkline.v17.2.Core.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Utils.v17.2.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Web.ASPxThemes.v17.2.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Web.Mvc5.v17.2.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Web.Resources.v17.2.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Web.v17.2.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Xpo.v17.2.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.XtraCharts.v17.2.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.XtraGauges.v17.2.Core.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.XtraReports.v17.2.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.XtraReports.v17.2.Web.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExtreme.AspNet.Data.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExtreme.AspNet.Mvc.dll
+E:\Jausi\Seguridad\Seguridad\bin\Microsoft.Web.Infrastructure.dll
+E:\Jausi\Seguridad\Seguridad\bin\Newtonsoft.Json.dll
+E:\Jausi\Seguridad\Seguridad\bin\System.Net.Http.Formatting.dll
+E:\Jausi\Seguridad\Seguridad\bin\System.Web.Helpers.dll
+E:\Jausi\Seguridad\Seguridad\bin\System.Web.Http.dll
+E:\Jausi\Seguridad\Seguridad\bin\System.Web.Http.WebHost.dll
+E:\Jausi\Seguridad\Seguridad\bin\System.Web.Mvc.dll
+E:\Jausi\Seguridad\Seguridad\bin\System.Web.Optimization.dll
+E:\Jausi\Seguridad\Seguridad\bin\System.Web.Razor.dll
+E:\Jausi\Seguridad\Seguridad\bin\System.Web.WebPages.Deployment.dll
+E:\Jausi\Seguridad\Seguridad\bin\System.Web.WebPages.dll
+E:\Jausi\Seguridad\Seguridad\bin\System.Web.WebPages.Razor.dll
+E:\Jausi\Seguridad\Seguridad\bin\WebGrease.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Images.v17.2.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.XtraCharts.v17.2.Web.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Web.ASPxHtmlEditor.v17.2.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Web.ASPxPivotGrid.v17.2.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Web.ASPxRichEdit.v17.2.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Web.ASPxScheduler.v17.2.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.XtraScheduler.v17.2.Core.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Web.ASPxSpellChecker.v17.2.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Web.ASPxSpreadsheet.v17.2.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Web.ASPxTreeList.v17.2.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.SpellChecker.v17.2.Core.dll
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Spreadsheet.v17.2.Core.dll
+E:\Jausi\Seguridad\Seguridad\bin\Antlr3.Runtime.pdb
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Data.v17.2.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.DataAccess.v17.2.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Office.v17.2.Core.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Pdf.v17.2.Core.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.PivotGrid.v17.2.Core.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Printing.v17.2.Core.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.RichEdit.v17.2.Core.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Sparkline.v17.2.Core.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Utils.v17.2.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Web.v17.2.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Xpo.v17.2.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.XtraCharts.v17.2.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.XtraGauges.v17.2.Core.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.XtraReports.v17.2.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.XtraReports.v17.2.Web.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExtreme.AspNet.Mvc.xml
+E:\Jausi\Seguridad\Seguridad\bin\Newtonsoft.Json.xml
+E:\Jausi\Seguridad\Seguridad\bin\System.Net.Http.Formatting.xml
+E:\Jausi\Seguridad\Seguridad\bin\System.Web.Helpers.xml
+E:\Jausi\Seguridad\Seguridad\bin\System.Web.Http.xml
+E:\Jausi\Seguridad\Seguridad\bin\System.Web.Http.WebHost.xml
+E:\Jausi\Seguridad\Seguridad\bin\System.Web.Mvc.xml
+E:\Jausi\Seguridad\Seguridad\bin\System.Web.Optimization.xml
+E:\Jausi\Seguridad\Seguridad\bin\System.Web.Razor.xml
+E:\Jausi\Seguridad\Seguridad\bin\System.Web.WebPages.xml
+E:\Jausi\Seguridad\Seguridad\bin\System.Web.WebPages.Deployment.xml
+E:\Jausi\Seguridad\Seguridad\bin\System.Web.WebPages.Razor.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.XtraCharts.v17.2.Web.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Web.ASPxHtmlEditor.v17.2.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Web.ASPxPivotGrid.v17.2.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Web.ASPxRichEdit.v17.2.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Web.ASPxScheduler.v17.2.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.XtraScheduler.v17.2.Core.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Web.ASPxSpellChecker.v17.2.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Web.ASPxSpreadsheet.v17.2.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Web.ASPxTreeList.v17.2.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.SpellChecker.v17.2.Core.xml
+E:\Jausi\Seguridad\Seguridad\bin\DevExpress.Spreadsheet.v17.2.Core.xml
+E:\Jausi\Seguridad\Seguridad\bin\de\DevExpress.Data.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\es\DevExpress.Data.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ja\DevExpress.Data.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ru\DevExpress.Data.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\de\DevExpress.DataAccess.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\es\DevExpress.DataAccess.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ja\DevExpress.DataAccess.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ru\DevExpress.DataAccess.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\de\DevExpress.Office.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\es\DevExpress.Office.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ja\DevExpress.Office.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ru\DevExpress.Office.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\de\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\es\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\de\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\es\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ja\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ru\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\de\DevExpress.Utils.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\es\DevExpress.Utils.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ja\DevExpress.Utils.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ru\DevExpress.Utils.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\de\DevExpress.Web.Resources.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\es\DevExpress.Web.Resources.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ja\DevExpress.Web.Resources.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ru\DevExpress.Web.Resources.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\de\DevExpress.Web.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\es\DevExpress.Web.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ja\DevExpress.Web.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ru\DevExpress.Web.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\de\DevExpress.Xpo.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\es\DevExpress.Xpo.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ja\DevExpress.Xpo.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ru\DevExpress.Xpo.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\de\DevExpress.XtraCharts.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\es\DevExpress.XtraCharts.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ja\DevExpress.XtraCharts.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ru\DevExpress.XtraCharts.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\de\DevExpress.XtraReports.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\es\DevExpress.XtraReports.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ja\DevExpress.XtraReports.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ru\DevExpress.XtraReports.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\de\DevExpress.XtraReports.v17.2.Web.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\es\DevExpress.XtraReports.v17.2.Web.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ja\DevExpress.XtraReports.v17.2.Web.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ru\DevExpress.XtraReports.v17.2.Web.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\de\DevExpress.Web.ASPxHtmlEditor.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\es\DevExpress.Web.ASPxHtmlEditor.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ja\DevExpress.Web.ASPxHtmlEditor.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ru\DevExpress.Web.ASPxHtmlEditor.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\de\DevExpress.Web.ASPxRichEdit.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\es\DevExpress.Web.ASPxRichEdit.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ja\DevExpress.Web.ASPxRichEdit.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ru\DevExpress.Web.ASPxRichEdit.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\de\DevExpress.Web.ASPxScheduler.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\es\DevExpress.Web.ASPxScheduler.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ja\DevExpress.Web.ASPxScheduler.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ru\DevExpress.Web.ASPxScheduler.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\de\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\es\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ja\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ru\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\de\DevExpress.Web.ASPxSpellChecker.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\es\DevExpress.Web.ASPxSpellChecker.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ja\DevExpress.Web.ASPxSpellChecker.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ru\DevExpress.Web.ASPxSpellChecker.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\de\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\es\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ja\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ru\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\de\DevExpress.Web.ASPxTreeList.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\es\DevExpress.Web.ASPxTreeList.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ja\DevExpress.Web.ASPxTreeList.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ru\DevExpress.Web.ASPxTreeList.v17.2.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\de\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\es\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ja\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\bin\ru\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+E:\Jausi\Seguridad\Seguridad\obj\Debug\rptTipoUsuario.resources
+E:\Jausi\Seguridad\Seguridad\obj\Debug\Seguridad.csproj.GenerateResource.cache
+E:\Jausi\Seguridad\Seguridad\obj\Debug\Seguridad.dll.licenses
+E:\Jausi\Seguridad\Seguridad\obj\Debug\Seguridad.csproj.CoreCompileInputs.cache
+E:\Jausi\Seguridad\Seguridad\obj\Debug\Seguridad.csproj.CopyComplete
+E:\Jausi\Seguridad\Seguridad\obj\Debug\Seguridad.dll
+E:\Jausi\Seguridad\Seguridad\obj\Debug\Seguridad.pdb
+E:\Jausi\Seguridad\Seguridad\obj\Debug\Seguridad.csprojAssemblyReference.cache

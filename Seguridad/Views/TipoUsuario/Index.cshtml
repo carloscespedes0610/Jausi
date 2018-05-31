@@ -1,0 +1,109 @@
+﻿@model IEnumerable<Seguridad.Models.VM.clsTipoUsuarioVM>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="content">
+    <div class="box-header with-border">
+        <h3 class="box-title">Tipos de Usuario</h3>
+
+        @(Html.DevExtreme().Button()
+                    .Text("Apply")
+                    .Type(ButtonType.Success)
+                    .OnClick("OnClick")
+        )
+
+        @Html.DevExtreme().Button().Icon("plus").OnClick(@<text>  function(){ window.location = "@Url.Action("Edit", "TipoUsuario", new { id = 10 })"; } </text>)
+
+        <div class="box-tools pull-right">
+            <div class="has-feedback">
+                <a class="btn btn-default btn-sm" href="@Url.Action("Create", "TipoUsuario")" data-toggle="tooltip" title="Nuevo"> <i class="glyphicon glyphicon-plus"></i></a>
+                <a class="btn btn-default btn-sm" href="@Url.Action("Index", "TipoUsuario")" data-toggle="tooltip" title="Actualizar"> <i class="fa fa-refresh"></i></a>
+                <a class="btn btn-default btn-sm" href="@Url.Action("ReportList", "TipoUsuario")" data-toggle="tooltip" title="Imprimir"> <i class="fa fa-print"></i></a>
+                <a class="btn btn-default btn-sm" href="#" onclick="onExport();" data-toggle="tooltip" title="Exportar"> <i class="dx-icon-exportxlsx"></i></a>
+
+                @*<a class="btn btn-default btn-sm" href="#" onclick="getRowSelectedId();" data-toggle="tooltip" title="Fila"> <i class="dx-icon-exportxlsx"></i></a>
+                <a class="btn btn-default btn-sm" href="@Url.Action("ReportList", "TipoUsuario", new { id = getRowSelectedId() })" data-toggle="tooltip" title="Imprimir"> <i class="fa fa-print"></i></a>*@
+ 
+                <a class="btn btn-default btn-sm" href="#" onclick="loadPage();" data-toggle="tooltip" title="Exportar"> <i class="dx-icon-plus"></i></a>
+            </div>
+        </div>
+    </div>
+
+    @(Html.DevExtreme().DataGrid<Seguridad.Models.VM.clsTipoUsuarioVM>()
+        .ID("grid")
+        .DataSource(Model, "TipoUsuarioId")
+        .AllowColumnResizing(true)
+        .ShowColumnLines(false)
+        .ShowRowLines(true)
+        .ShowBorders(true)
+        .FilterRow(filterRow => filterRow.Visible(true).ApplyFilter(GridApplyFilterMode.Auto))
+        .Sorting(sorting => sorting.Mode(GridSortingMode.Multiple))
+        .Paging(p => p.PageSize(10))
+        .Width("100%")
+        .RowAlternationEnabled(true)
+        .Selection(s => s.Mode(SelectionMode.Single))
+        //.Editing(e => e.Mode(GridEditMode.Row))
+        .OnCellPrepared("onCellPrepared")
+        //.Selection(s => s.Mode(SelectionMode.Multiple))
+        .Export(e => e.Enabled(false).FileName("TipoUsuario").ExcelWrapTextEnabled(false))
+        .Columns(columns =>
+        {
+            columns.AddFor(m => m.TipoUsuarioCod).Width(100);
+            columns.AddFor(m => m.TipoUsuarioDes).Width(300);
+            columns.AddFor(m => m.EstadoDes).Width(100);
+
+            columns.Add().DataField("Edit").Caption("").Width(30).AllowFiltering(false).CellTemplate(Html.ActionLink(" ", "Edit", new { id = "TipoUsuarioId" }, new { @class = "dx-icon-edit" }).ToHtmlString().Replace("TipoUsuarioId", "<%= data.TipoUsuarioId %>"));
+            columns.Add().DataField("Delete").Caption("").Width(30).AllowFiltering(false).CellTemplate(Html.ActionLink(" ", "Delete", new { id = "TipoUsuarioId" }, new { @class = "dx-icon-trash" }).ToHtmlString().Replace("TipoUsuarioId", "<%= data.TipoUsuarioId %>"));
+            columns.Add().DataField("Details").Caption("").Width(30).AllowFiltering(false).CellTemplate(Html.ActionLink(" ", "Details", new { id = "TipoUsuarioId" }, new { @class = "fa fa-info-circle" }).ToHtmlString().Replace("TipoUsuarioId", "<%= data.TipoUsuarioId %>"));
+        })
+    )
+</section>
+
+<script>
+    function loadPage() {
+        var id = 10;
+        var PlanId = getRowSelectedId();
+
+        var url = "@Url.Action("Edit", "TipoUsuario", new { id="param-id", PlanId="param-PlanId" })";
+        url = url.replace("param-id", id)
+                .replace("param-PlanId", PlanId);
+
+        window.location.href = url;
+    }
+
+    function OnClick(data) {
+    $.ajax({
+        url: '@Url.Action("Edit", "TipoUsuario")',
+        data: { id: 1 }
+    });
+    }
+
+    function onExport() {
+        $("#grid").dxDataGrid("instance").exportToExcel(false);
+    }
+
+    function onCellPrepared(e) {
+        if (e.rowType === "header") {
+            e.cellElement.addClass("columnHeaderCSS");
+            e.cellElement.find("input").addClass("columnHeaderCSS");
+        }
+    }
+
+    function getRowSelectedId() {
+        var grid = $("#grid").dxDataGrid("instance");
+        var selectedRowsData = grid.getSelectedRowsData();
+        var Id = 0;
+
+        if (selectedRowsData.length > 0) {
+            Id = selectedRowsData[0].TipoUsuarioId;
+        }
+
+        return Id;
+
+        //alert(JSON.stringify(grid.getSelectedRowsData()));
+
+        //var selectedRowKeys = grid.getSelectedRowKeys;
+        //alert(selectedRowKeys[0]);
+    }
+</script>

@@ -1,4 +1,4 @@
-﻿@model IEnumerable<Seguridad.Models.VM.clsPersonaVM>
+﻿@model List<Seguridad.Models.VM.clsPersonaVM>
 @{
     ViewBag.Title = "Index";
 }
@@ -24,12 +24,46 @@
             .Export(e => e.Enabled(false).FileName("Persona").ExcelWrapTextEnabled(false))
             .Columns(columns =>
             {
-                columns.AddFor(m => m.PersonaID).Width(100);
-                columns.AddFor(m => m.PersonaNombre).Width(300);
-                columns.AddFor(m => m.PersonaSexo).Width(100);
-                columns.AddFor(m => m.PersonaEstadoCivil).Width(100);
-                columns.AddFor(m => m.PersonaFechaNacimiento).Width(100);
-                columns.AddFor(m => m.PersonaTelefono).Width(100);
+                if (Model != null && Model.Capacity > 0)
+                {
+                    if (Model.ElementAt(0).PersonaID != 0)
+                    {
+                        columns.AddFor(m => m.PersonaID).Width(100);
+                    }
+
+                    if (!(Model.ElementAt(0).PersonaNombre.IsEmpty()))
+                    {
+                        columns.AddFor(m => m.PersonaNombre).Width(100);
+                    }
+
+                    if (!(Model.ElementAt(0).PersonaSexo.IsEmpty()))
+                    {
+                        columns.AddFor(m => m.PersonaSexo).Width(100);
+                    }
+
+                    if (!(Model.ElementAt(0).PersonaEstadoCivil.IsEmpty()))
+                    {
+                        columns.AddFor(m => m.PersonaEstadoCivil).Width(100);
+                    }
+
+                    if (Model.ElementAt(0).PersonaFechaNacimiento.CompareTo(DateTime.MinValue) != 0)
+                    {
+                        columns.AddFor(m => m.PersonaFechaNacimiento).Width(100);
+                    }
+
+                    if (!(Model.ElementAt(0).PersonaTelefono.IsEmpty()))
+                    {
+                        columns.AddFor(m => m.PersonaTelefono).Width(100);
+                    }
+                }
+                else {
+                    Html.DisplayText("Consulta sin Resultados");
+                }
+
+
+
+
+
 
 
                 //columns.Add().DataField("Edit").Caption("").Width(30).AllowFiltering(false).CellTemplate(Html.ActionLink(" ", "Edit", new { id = "TipoUsuarioId" }, new { @class = "dx-icon-edit" }).ToHtmlString().Replace("TipoUsuarioId", "<%= data.TipoUsuarioId %>"));

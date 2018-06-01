@@ -143,6 +143,7 @@ namespace Seguridad.Controllers
                             PersonaFechaNacimiento = SysData.ToDateTime(dr[clsPersonaVM.varPersonaFechaNacimiento]),
                             PersonaTelefono = SysData.ToStr(dr[clsPersonaVM.varPersonaTelefono])
                         });
+
                     }
                 }
             }

@@ -76,9 +76,9 @@ namespace Seguridad.Controllers
 
             try
             {
-                oPersonaDAC.SelectFilter = clsPersonaDAC.SelectFilters.Grid;
-                oPersonaDAC.WhereFilter = clsPersonaDAC.WhereFilters.Grid;
-                oPersonaDAC.OrderByFilter = clsPersonaDAC.OrderByFilters.Grid;
+               // oPersonaDAC.SelectFilter = clsPersonaDAC.SelectFilters.Grid;
+               // oPersonaDAC.WhereFilter = clsPersonaDAC.WhereFilters.Grid;
+               // oPersonaDAC.OrderByFilter = clsPersonaDAC.OrderByFilters.Grid;
 
                 if (oPersonaDAC.Open())
                 {
@@ -90,12 +90,18 @@ namespace Seguridad.Controllers
                         {
                             switch (column.ColumnName.ToString())
                             {
-                                case "PersonaId" : perAux.PersonaID = SysData.ToLong(row[clsPersonaVM.varPersonaId]); break;
-                                case "PersonaNombre" : perAux.PersonaNombre = SysData.ToStr(row[clsPersonaVM.varPersonaNombre]); break;
-                                case "PersonaSexo" : perAux.PersonaSexo = SysData.ToStr(row[clsPersonaVM.varPersonaSexo]); break;
-                                case "PersonaEstadoCivil": perAux.PersonaEstadoCivil = SysData.ToStr(row[clsPersonaVM.varPersonaEstadoCivil]); break;
-                                case "PersonaFechaNacimiento": perAux.PersonaFechaNacimiento = SysData.ToDateTime(row[clsPersonaVM.varPersonaFechaNacimiento]); break;
-                                case "PersonaTelefono" : perAux.PersonaTelefono = SysData.ToStr(row[clsPersonaVM.varPersonaTelefono]); break;
+                                case "PersonaId" :
+                                    perAux.PersonaID = SysData.ToLong(row[clsPersonaVM.varPersonaId]); break;
+                                case "PersonaNombre" :
+                                    perAux.PersonaNombre = SysData.ToStr(row[clsPersonaVM.varPersonaNombre]); break;
+                                case "PersonaSexo" :
+                                    perAux.PersonaSexo = SysData.ToStr(row[clsPersonaVM.varPersonaSexo]); break;
+                                case "PersonaEstadoCivil":
+                                    perAux.PersonaEstadoCivil = SysData.ToStr(row[clsPersonaVM.varPersonaEstadoCivil]); break;
+                                case "PersonaFechaNacimiento":
+                                    perAux.PersonaFechaNacimiento = SysData.ToDateTime(row[clsPersonaVM.varPersonaFechaNacimiento]); break;
+                                case "PersonaTelefono" :
+                                    perAux.PersonaTelefono = SysData.ToStr(row[clsPersonaVM.varPersonaTelefono]); break;
 
                             }
 
@@ -119,7 +125,7 @@ namespace Seguridad.Controllers
             return oPersonaVM;
         }
 
-        public List<clsPersonaVM> listarPersonasSentenciaSql() {
+        /*public List<clsPersonaVM> listarPersonasSentenciaSql() {
 
             clsPersonaDAC oPersonaDAC = new clsPersonaDAC(clsAppInfo.Connection);
             List<clsPersonaVM> oPersonaVM = new List<clsPersonaVM>();
@@ -159,7 +165,7 @@ namespace Seguridad.Controllers
             }
 
             return oPersonaVM;
-        }
+        }*/
 
     }
 

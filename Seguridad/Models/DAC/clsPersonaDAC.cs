@@ -27,7 +27,7 @@ namespace Seguridad.Models.DAC
         //* The following enumerations will change for each
         //* data access class
         //******************************************************
-        public enum SelectFilters : byte
+        /*public enum SelectFilters : byte
         {
             All = 0,
             RowCount = 1,
@@ -74,13 +74,13 @@ namespace Seguridad.Models.DAC
         public enum RowCountFilters : byte
         {
             All = 0
-        }
+        }*/
 
         //*********************************************************
         //* The following filters will change for each
         //* data access class
         //*********************************************************
-        private SelectFilters mintSelectFilter;
+       /* private SelectFilters mintSelectFilter;
         private WhereFilters mintWhereFilter;
         private OrderByFilters mintOrderByFilter;
         private InsertFilters mintInsertFilter;
@@ -128,19 +128,12 @@ namespace Seguridad.Models.DAC
         {
             get { return mintRowCountFilter; }
             set { mintRowCountFilter = value; }
-        }
+        }*/
 
 
-        public clsPersonaDAC()
-        {
-            mstrTableName = "Persona";
-            mstrClassName = "clsPersonaDAC";
+        
 
-            PropertyInit();
-            FilterInit();
-        }
-
-        private void FilterInit()
+       /* private void FilterInit()
         {
             mintWhereFilter = 0;
             mintOrderByFilter = 0;
@@ -149,7 +142,7 @@ namespace Seguridad.Models.DAC
             mintUpdateFilter = 0;
             mintDeleteFilter = 0;
             mintRowCountFilter = 0;
-        }
+        }*/
 
         private void PropertyInit()
         {
@@ -159,6 +152,14 @@ namespace Seguridad.Models.DAC
             this.PersonaTelefono = string.Empty;
             this.PersonaEstadoCivil = string.Empty;
             this.PersonaFechaNacimiento= DateTime.Now;
+        }
+        public clsPersonaDAC()
+        {
+            mstrTableName = "Persona";
+            mstrClassName = "clsPersonaDAC";
+
+            PropertyInit();
+            //  FilterInit();
         }
 
         public clsPersonaDAC(string ConnectString) : this()
@@ -173,7 +174,7 @@ namespace Seguridad.Models.DAC
             moConnection = oConnection;
         }
 
-        public clsPersonaDAC(SqlConnection oConnection, SelectFilters bytSelectFilter) : this()
+       /* public clsPersonaDAC(SqlConnection oConnection, SelectFilters bytSelectFilter) : this()
         {
             moConnection = oConnection;
             mintSelectFilter = bytSelectFilter;
@@ -192,41 +193,43 @@ namespace Seguridad.Models.DAC
             mintSelectFilter = bytSelectFilter;
             mintWhereFilter = bytWhereFilter;
             mintOrderByFilter = bytOrderByFilter;
-        }
+        }*/
 
 
 
         public override bool Validate()
         {
-            bool returnValue = false;
-            string strMsg = string.Empty;
+            throw new NotImplementedException();
 
-            if (this.PersonaNombre.Length == 0)
-            {
-                strMsg += "Nombre es Requerido <br />";
-            }
+            /* bool returnValue = false;
+             string strMsg = string.Empty;
 
-            if (this.PersonaSexo.Length == 0)
-            {
-                strMsg += "Sexo es Requerido <br />";
-            }
+             if (this.PersonaNombre.Length == 0)
+             {
+                 strMsg += "Nombre es Requerido <br />";
+             }
 
-            if (this.PersonaEstadoCivil.Length == 0)
-            {
-                strMsg += "EstadoCivil es Requerido <br />";
-            }
+             if (this.PersonaSexo.Length == 0)
+             {
+                 strMsg += "Sexo es Requerido <br />";
+             }
 
-            if (strMsg.Trim() != string.Empty)
-            {
-                returnValue = false;
-                throw (new Exception(strMsg));
-            }
-            else
-            {
-                returnValue = true;
-            }
+             if (this.PersonaEstadoCivil.Length == 0)
+             {
+                 strMsg += "EstadoCivil es Requerido <br />";
+             }
 
-            return returnValue;
+             if (strMsg.Trim() != string.Empty)
+             {
+                 returnValue = false;
+                 throw (new Exception(strMsg));
+             }
+             else
+             {
+                 returnValue = true;
+             }
+
+             return returnValue;*/
         }
 
         protected override void DeleteParameter()
@@ -246,7 +249,13 @@ namespace Seguridad.Models.DAC
 
         protected override void SelectParameter()
         {
-            string camposSelect = clsPersonaVM.varPersonaNombre + "," + clsPersonaVM.varPersonaTelefono + ",";
+            string camposSelect = clsPersonaVM.varPersonaNombre + "," + 
+                                    clsPersonaVM.varPersonaSexo + ","+
+                                    clsPersonaVM.varPersonaTelefono + ",";
+           /*string camposSelect = clsPersonaVM.varPersonaNombre + "," + 
+                                    clsPersonaVM.varPersonaFechaNacimiento + ","+
+                                    clsPersonaVM.varPersonaEstadoCivil + ",";*/
+           // string camposSelect = clsPersonaVM.varPersonaNombre + "," + clsPersonaVM.varPersonaTelefono + ",";
             string filtrosWhereSelect = string.Empty;
 
             Array.Resize(ref moParameters, 2);
@@ -285,9 +294,10 @@ namespace Seguridad.Models.DAC
             WhereParameter();*/
         }
 
+        /*
         private void WhereParameter()
         {
-            /*string varPersonaId = "@" + clsPersonaVM.varPersonaId;
+            string varPersonaId = "@" + clsPersonaVM.varPersonaId;
             string varPersonaNombre = "@" + clsPersonaVM.varPersonaNombre;
 
             switch (this.mintWhereFilter)
@@ -303,25 +313,9 @@ namespace Seguridad.Models.DAC
                     moParameters[3] = new SqlParameter(varPersonaId, Convert.ToInt32(0));
                     moParameters[4] = new SqlParameter(varPersonaNombre, Convert.ToInt32(0));
                     break;
-            }*/
-        }
-
-        /*
-        /// <summary>
-        /// select parameter carlos
-        /// </summary>
-        protected override void SelectParameterCarlos()
-        {
-            string camposSelect = clsPersonaVM.varPersonaNombre + "," + clsPersonaVM.varPersonaTelefono;
-            string filtrosWhereSelect = string.Empty;
-
-            Array.Resize(ref moParameters, 2);
-            moParameters[0] = new SqlParameter(ValoresSql.campos,camposSelect);
-            moParameters[1] = new SqlParameter(ValoresSql.filtrosWhere,filtrosWhereSelect);
-
-            mstrStoreProcName = proce_select_PersonaCarlos;
-
+            }
         }*/
+
 
         protected override void UpdateParameter()
         {

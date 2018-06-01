@@ -610,7 +610,6 @@ D:\Delfinnet\Practicas ASP Net MVC\Seguridad\Seguridad\bin\de\DevExpress.Spreads
 D:\Delfinnet\Practicas ASP Net MVC\Seguridad\Seguridad\bin\es\DevExpress.Spreadsheet.v17.2.Core.resources.dll
 D:\Delfinnet\Practicas ASP Net MVC\Seguridad\Seguridad\bin\ja\DevExpress.Spreadsheet.v17.2.Core.resources.dll
 D:\Delfinnet\Practicas ASP Net MVC\Seguridad\Seguridad\bin\ru\DevExpress.Spreadsheet.v17.2.Core.resources.dll
-D:\Delfinnet\Practicas ASP Net MVC\Seguridad\Seguridad\obj\Debug\Seguridad.csprojAssemblyReference.cache
 D:\Delfinnet\Practicas ASP Net MVC\Seguridad\Seguridad\obj\Debug\rptTipoUsuario.resources
 D:\Delfinnet\Practicas ASP Net MVC\Seguridad\Seguridad\obj\Debug\Seguridad.csproj.GenerateResource.cache
 D:\Delfinnet\Practicas ASP Net MVC\Seguridad\Seguridad\obj\Debug\Seguridad.dll.licenses

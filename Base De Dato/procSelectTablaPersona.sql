@@ -13,6 +13,8 @@ GO
 		*NOTA: el campo PersonaId viene por defecto 
 			   no se debe estar mencionado en el parametro campos
 			   y toda la cadena debe terminar con una coma
+		
+		filtrosWhere = "PersonaSexo='M' AND PersonaEstadoCivil='S''"
 */
 
 create proc procSelectTablaPersona @campos nvarchar(Max),
@@ -44,18 +46,15 @@ begin
 		set @pos = (select CHARINDEX(',',@campos));
 	end
 	
+	---************* Procesamiento del Where ************-------------
+	
+	
+	
+	
+	
 	select * from Jausi.dbo.tempResultado
 	
-	/*
-	-- preguntamos si queda un campo si añadir
-	if(LEN(@campos)>0)
-	begin
-		set @campoNew = (Select SUBSTRING(@campos,0,Len(@campos)+1));
-		exec procAddCampoTabla @campoNew
-		
-	end
-*/
-
+	
 end
 Go
 

@@ -12,6 +12,9 @@ namespace p01.Valores
         public static string where_filter = "@WhereFilter";
         public static string order_filter = "@OrderByFilter";
 
+        // sql parametros Carlos
+        public static string campos = "@"+nameof(campos);    //mismo nombre que los parametros del proced almacenado
+        public static string filtrosWhere = "@"+nameof(filtrosWhere);
 
 
 

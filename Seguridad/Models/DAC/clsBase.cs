@@ -177,7 +177,37 @@ namespace Seguridad.Models.DAC
             return returnValue;
         }
 
-        public bool OpenCarlos()
+        /* public bool OpenCarlosProcedimiento()
+         {
+             bool returnValue = false;
+
+             try
+             {
+                 moDataSet = new DataSet();
+
+                 SelectParameter();
+
+                 moDataAdapter = new SqlDataAdapter(mstrStoreProcName, moConnection);
+                 moDataAdapter.SelectCommand.CommandType = CommandType.StoredProcedure;
+                 moDataAdapter.SelectCommand.Parameters.AddRange(moParameters);
+                 moDataAdapter.Fill(moDataSet, mstrTableName);
+                 moDataAdapter.Dispose();
+
+                 mintRow = 0;
+                 mintRowsCount = Convert.ToInt32(moDataSet.Tables[mstrTableName].Rows.Count);
+
+                 returnValue = true;
+             }
+
+             catch (Exception exp)
+             {
+                 throw (exp);
+             }
+
+             return returnValue;
+         }*/
+
+        public bool OpenCarlosQuery()
         {
             bool returnValue = false;
             string SelectAllTablePerson = @"SELECT	Persona.PersonaId, 

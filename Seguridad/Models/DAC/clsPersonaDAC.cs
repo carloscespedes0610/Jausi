@@ -21,6 +21,7 @@ namespace Seguridad.Models.DAC
 
         // procedimientos
         public static string proce_select_Persona = "PersonaSelect";
+        public static string proce_select_PersonaCarlos = "procSelectTablaPersona";
 
         //******************************************************
         //* The following enumerations will change for each
@@ -245,7 +246,16 @@ namespace Seguridad.Models.DAC
 
         protected override void SelectParameter()
         {
-            Array.Resize(ref moParameters, 3);
+            string camposSelect = clsPersonaVM.varPersonaNombre + "," + clsPersonaVM.varPersonaTelefono + ",";
+            string filtrosWhereSelect = string.Empty;
+
+            Array.Resize(ref moParameters, 2);
+            moParameters[0] = new SqlParameter(ValoresSql.campos, camposSelect);
+            moParameters[1] = new SqlParameter(ValoresSql.filtrosWhere, filtrosWhereSelect);
+
+            mstrStoreProcName = proce_select_PersonaCarlos;
+
+            /*Array.Resize(ref moParameters, 3);
             moParameters[0] = new SqlParameter(ValoresSql.select_filter, mintSelectFilter);
             moParameters[1] = new SqlParameter(ValoresSql.where_filter, mintWhereFilter);
             moParameters[2] = new SqlParameter(ValoresSql.order_filter, mintOrderByFilter);
@@ -272,12 +282,12 @@ namespace Seguridad.Models.DAC
                     break;
             }
 
-            WhereParameter();
+            WhereParameter();*/
         }
 
         private void WhereParameter()
         {
-            string varPersonaId = "@" + clsPersonaVM.varPersonaId;
+            /*string varPersonaId = "@" + clsPersonaVM.varPersonaId;
             string varPersonaNombre = "@" + clsPersonaVM.varPersonaNombre;
 
             switch (this.mintWhereFilter)
@@ -293,8 +303,25 @@ namespace Seguridad.Models.DAC
                     moParameters[3] = new SqlParameter(varPersonaId, Convert.ToInt32(0));
                     moParameters[4] = new SqlParameter(varPersonaNombre, Convert.ToInt32(0));
                     break;
-            }
+            }*/
         }
+
+        /*
+        /// <summary>
+        /// select parameter carlos
+        /// </summary>
+        protected override void SelectParameterCarlos()
+        {
+            string camposSelect = clsPersonaVM.varPersonaNombre + "," + clsPersonaVM.varPersonaTelefono;
+            string filtrosWhereSelect = string.Empty;
+
+            Array.Resize(ref moParameters, 2);
+            moParameters[0] = new SqlParameter(ValoresSql.campos,camposSelect);
+            moParameters[1] = new SqlParameter(ValoresSql.filtrosWhere,filtrosWhereSelect);
+
+            mstrStoreProcName = proce_select_PersonaCarlos;
+
+        }*/
 
         protected override void UpdateParameter()
         {

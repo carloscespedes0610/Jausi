@@ -19,8 +19,8 @@ namespace Seguridad.Controllers
             {
                 this.GetDefaultData();
 
-                var lstPersonas = listarPersonasSentenciaSql();
-                //var lstPersonas = ListarPersonas();
+                //var lstPersonas = listarPersonasSentenciaSql();
+                var lstPersonas = ListarPersonas();
                 return View(lstPersonas);
             }
 
@@ -29,8 +29,8 @@ namespace Seguridad.Controllers
                 return RedirectToAction("httpErrorMsg", "Error", new { MessageErr = exp.Message });
             }
         }
-
-        public List<clsPersonaVM> ListarPersonas() {
+        /*public List<clsPersonaVM> ListarPersonas()
+        {
             clsPersonaDAC oPersonaDAC = new clsPersonaDAC(clsAppInfo.Connection);
             List<clsPersonaVM> oPersonaVM = new List<clsPersonaVM>();
 
@@ -68,53 +68,58 @@ namespace Seguridad.Controllers
             }
 
             return oPersonaVM;
+        }*/
+
+        public List<clsPersonaVM> ListarPersonas() {
+            clsPersonaDAC oPersonaDAC = new clsPersonaDAC(clsAppInfo.Connection);
+            List<clsPersonaVM> oPersonaVM = new List<clsPersonaVM>();
+
+            try
+            {
+                oPersonaDAC.SelectFilter = clsPersonaDAC.SelectFilters.Grid;
+                oPersonaDAC.WhereFilter = clsPersonaDAC.WhereFilters.Grid;
+                oPersonaDAC.OrderByFilter = clsPersonaDAC.OrderByFilters.Grid;
+
+                if (oPersonaDAC.Open())
+                {
+                    foreach (DataRow row in oPersonaDAC.DataSet.Tables[oPersonaDAC.TableName].Rows)
+                    {
+                        clsPersonaVM perAux = new clsPersonaVM();
+
+                        foreach (DataColumn column in oPersonaDAC.DataSet.Tables[oPersonaDAC.TableName].Columns)
+                        {
+                            switch (column.ColumnName.ToString())
+                            {
+                                case "PersonaId" : perAux.PersonaID = SysData.ToLong(row[clsPersonaVM.varPersonaId]); break;
+                                case "PersonaNombre" : perAux.PersonaNombre = SysData.ToStr(row[clsPersonaVM.varPersonaNombre]); break;
+                                case "PersonaSexo" : perAux.PersonaSexo = SysData.ToStr(row[clsPersonaVM.varPersonaSexo]); break;
+                                case "PersonaEstadoCivil": perAux.PersonaEstadoCivil = SysData.ToStr(row[clsPersonaVM.varPersonaEstadoCivil]); break;
+                                case "PersonaFechaNacimiento": perAux.PersonaFechaNacimiento = SysData.ToDateTime(row[clsPersonaVM.varPersonaFechaNacimiento]); break;
+                                case "PersonaTelefono" : perAux.PersonaTelefono = SysData.ToStr(row[clsPersonaVM.varPersonaTelefono]); break;
+
+                            }
+
+                        }
+
+                        oPersonaVM.Add(perAux);
+                    }
+                }
+            }
+
+            catch (Exception exp)
+            {
+                throw (exp);
+
+            }
+            finally
+            {
+                //oPersonaDAC.Dispose();
+            }
+
+            return oPersonaVM;
         }
 
         public List<clsPersonaVM> listarPersonasSentenciaSql() {
-            /* List<clsPersonaVM> oPersonaVM = new List<clsPersonaVM>();
-
-             string SelectAllTablePerson = @"SELECT	Persona.PersonaId, 
-                                             Persona.PersonaNombre, 
-                                             Persona.PersonaSexo, 
-                                             Persona.PersonaEstadoCivil,
-                                             Persona.PersonaFechaNacimiento,
-                                             Persona.PersonaTelefono 
-                                             FROM	Persona 
-                                             ORDER BY PersonaId";
-             //Inicializa el comando que se va a ejecutar
-             SqlCommand cmd = new SqlCommand(SelectAllTablePerson, clsAppInfo.Connection);
-             //Se agregan los parámetros
-             // cmd.Parameters.AddWithValue("@FechaNacimiento", fechaNacimiento);
-             SqlDataAdapter da = new SqlDataAdapter(cmd);
-             try
-             {
-
-                 //Se abre la conexión
-                 cmd.Connection.Open();
-                 SqlDataReader reader = cmd.ExecuteReader();
-
-                 while (reader.Read())
-                 {
-                     oPersonaVM.Add(new clsPersonaVM()
-                     {
-                         //Convert.ToString(reader("campo1")); 
-                         PersonaID = SysData.ToLong(reader[clsPersonaVM.varPersonaId]),
-                         PersonaNombre = SysData.ToStr(reader[clsPersonaVM.varPersonaNombre]),
-                         PersonaEstadoCivil = SysData.ToStr(reader[clsPersonaVM.varPersonaEstadoCivil]),
-                         PersonaSexo = SysData.ToStr(reader[clsPersonaVM.varPersonaSexo]),
-                         PersonaFechaNacimiento = SysData.ToDateTime(reader[clsPersonaVM.varPersonaFechaNacimiento]),
-                         PersonaTelefono = SysData.ToStr(reader[clsPersonaVM.varPersonaTelefono])
-                     });
-                 }
-                 cmd.Connection.Dispose();
-
-             }
-             catch (SqlException sqlEx)
-             {
-                 string error = sqlEx.Message;
-                 throw;
-             }
-             return oPersonaVM;*/
 
             clsPersonaDAC oPersonaDAC = new clsPersonaDAC(clsAppInfo.Connection);
             List<clsPersonaVM> oPersonaVM = new List<clsPersonaVM>();
@@ -125,7 +130,7 @@ namespace Seguridad.Controllers
                 oPersonaDAC.WhereFilter = clsPersonaDAC.WhereFilters.Grid;
                 oPersonaDAC.OrderByFilter = clsPersonaDAC.OrderByFilters.Grid;
 
-                if (oPersonaDAC.OpenCarlos())
+                if (oPersonaDAC.OpenCarlosQuery())
                 {
                     foreach (DataRow dr in oPersonaDAC.DataSet.Tables[oPersonaDAC.TableName].Rows)
                     {
@@ -156,4 +161,6 @@ namespace Seguridad.Controllers
         }
 
     }
+
+    
 }
